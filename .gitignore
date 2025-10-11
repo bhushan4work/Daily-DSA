@@ -1,0 +1,14 @@
+# Mac system files
+.DS_Store
+
+# Java build files
+*.class
+*.jar
+
+# IDE / IntelliJ files
+*.iml
+.idea/
+
+# Optional: log files and temp folders
+*.log
+out/
