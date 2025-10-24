@@ -1,3 +1,5 @@
+package BasicRecursion;
+
 import java.util.Scanner ;
 
 public class SumOfFirst_N_Nums {
@@ -7,8 +9,8 @@ public class SumOfFirst_N_Nums {
     //method1 : parameterised way
     static void sum(int i, int sum, int n){
         if(i>n){
-             System.out.println(sum);
-             return;
+            System.out.println(sum);
+            return;
         }
         sum(i+1,sum+i, n);
     }

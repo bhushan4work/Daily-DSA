@@ -1,3 +1,5 @@
+package BasicRecursion;
+
 import java.util.Scanner ;
 
 public class PrintNum_1_to_N {

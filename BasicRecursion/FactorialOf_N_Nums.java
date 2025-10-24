@@ -1,3 +1,5 @@
+package BasicRecursion;
+
 import java.util.Scanner;
 
 public class FactorialOf_N_Nums {

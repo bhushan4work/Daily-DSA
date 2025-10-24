@@ -1,3 +1,5 @@
+package BasicRecursion;
+
 import java.io.*;
 
 //palindrome - which gives same output as of input on reversal
@@ -57,6 +59,3 @@ public class PalindromeString {
         System.out.println(palindrome(0,s));
     }
 }
-
-
-

@@ -1,4 +1,4 @@
-//FibonacciNum- fib(n) = fib(n-1) + fib(n-2) or sum of prev 2 nums
+package BasicRecursion;//FibonacciNum- fib(n) = fib(n-1) + fib(n-2) or sum of prev 2 nums
 
 public class FibonacciNum  {
 
